@@ -1,0 +1,17 @@
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:116:19:ndefT3TPollerReadBlocks	10
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:172:12:ndefT3TPollerReadBytes	23
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:293:19:ndefT3TPollerReadAttributeInformationBlock	7
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:339:12:ndefT3TPollerContextInitialization	4
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:357:12:ndefT3TPollerNdefDetect	12
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:441:12:ndefT3TPollerReadRawMessage	14
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:515:19:ndefT3TPollerWriteBlocks	5
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:547:12:ndefT3TPollerWriteBytes	20
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:662:19:ndefT3TPollerWriteAttributeInformationBlock	4
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:728:12:ndefT3TPollerWriteRawMessage	12
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:786:12:ndefT3TPollerTagFormat	7
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:832:12:ndefT3TPollerCheckPresence	3
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:847:12:ndefT3TPollerCheckAvailableSpace	5
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:866:12:ndefT3TPollerBeginWriteMessage	6
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:894:12:ndefT3TPollerEndWriteMessage	6
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:924:12:ndefT3TPollerWriteRawMessageLen	5
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:941:12:ndefT3TPollerSetReadOnly	6

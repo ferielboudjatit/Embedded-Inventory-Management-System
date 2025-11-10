@@ -1,0 +1,6 @@
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_iso15693_2.c:95:12:rfalIso15693PhyConfigure	2
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_iso15693_2.c:122:12:rfalIso15693PhyGetConfiguration	1
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_iso15693_2.c:129:12:rfalIso15693VCDCode	33
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_iso15693_2.c:268:12:rfalIso15693VICCDecode	24
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_iso15693_2.c:416:19:rfalIso15693PhyVCDCode1Of4	7
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_iso15693_2.c:474:19:rfalIso15693PhyVCDCode1Of256	7

@@ -1,0 +1,8 @@
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_message.c:61:20:ndefAllocRecord	2
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_message.c:82:12:ndefMessageInit	2
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_message.c:100:12:ndefMessageGetInfo	4
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_message.c:129:10:ndefMessageGetRecordCount	2
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_message.c:143:12:ndefMessageAppend	5
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_message.c:190:12:ndefMessageDecode	8
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_message.c:237:12:ndefMessageEncode	9
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_message.c:287:13:ndefMessageFindRecordType	5

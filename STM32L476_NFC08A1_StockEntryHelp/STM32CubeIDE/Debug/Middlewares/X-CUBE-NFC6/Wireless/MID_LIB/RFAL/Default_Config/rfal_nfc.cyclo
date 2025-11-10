@@ -1,0 +1,16 @@
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_nfc.c:138:12:rfalNfcInitialize	2
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_nfc.c:154:12:rfalNfcDiscover	14
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_nfc.c:232:12:rfalNfcDeactivate	13
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_nfc.c:268:12:rfalNfcSelect	2
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_nfc.c:284:14:rfalNfcGetState	1
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_nfc.c:290:12:rfalNfcGetDevicesFound	4
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_nfc.c:311:12:rfalNfcGetActiveDevice	5
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_nfc.c:337:6:rfalNfcWorker	55
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_nfc.c:609:12:rfalNfcDataExchangeStart	21
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_nfc.c:746:12:rfalNfcDataExchangeGetStatus	14
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_nfc.c:841:19:rfalNfcPollTechDetetection	67
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_nfc.c:1167:19:rfalNfcPollCollResolution	69
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_nfc.c:1483:19:rfalNfcPollActivation	48
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_nfc.c:1851:19:rfalNfcListenActivation	27
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_nfc.c:2060:19:rfalNfcNfcDepActivate	8
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_nfc.c:2158:19:rfalNfcDeactivation	22

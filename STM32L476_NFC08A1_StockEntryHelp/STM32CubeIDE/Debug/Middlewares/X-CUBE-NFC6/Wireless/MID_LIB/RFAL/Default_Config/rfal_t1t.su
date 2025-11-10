@@ -1,0 +1,4 @@
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_t1t.c:108:12:rfalT1TPollerInitialize	16	static
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_t1t.c:124:12:rfalT1TPollerRid	48	static
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_t1t.c:152:12:rfalT1TPollerRall	48	static
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_t1t.c:171:12:rfalT1TPollerWrite	56	static

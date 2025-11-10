@@ -1,0 +1,9 @@
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_analogConfig.c:108:6:rfalAnalogConfigInitialize	1
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_analogConfig.c:125:6:rfalAnalogConfigIsReady	1
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_analogConfig.c:130:12:rfalAnalogConfigListWriteRaw	1
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_analogConfig.c:166:12:rfalAnalogConfigListWrite	1
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_analogConfig.c:228:12:rfalAnalogConfigListReadRaw	4
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_analogConfig.c:252:12:rfalAnalogConfigListRead	2
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_analogConfig.c:283:12:rfalSetAnalogConfig	8
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_analogConfig.c:333:10:rfalAnalogConfigGenModeID	8
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_analogConfig.c:427:28:rfalAnalogConfigSearch	6

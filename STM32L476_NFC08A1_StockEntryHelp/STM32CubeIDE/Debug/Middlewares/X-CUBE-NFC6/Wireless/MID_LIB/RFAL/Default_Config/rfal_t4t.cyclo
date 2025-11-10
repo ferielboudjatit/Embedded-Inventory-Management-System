@@ -1,0 +1,9 @@
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_t4t.c:78:12:rfalT4TPollerComposeCAPDU	10
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_t4t.c:147:12:rfalT4TPollerParseRAPDU	5
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_t4t.c:173:12:rfalT4TPollerComposeSelectAppl	4
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_t4t.c:205:12:rfalT4TPollerComposeSelectFile	4
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_t4t.c:237:12:rfalT4TPollerComposeSelectFileV1Mapping	4
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_t4t.c:269:12:rfalT4TPollerComposeReadData	1
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_t4t.c:292:12:rfalT4TPollerComposeReadDataODO	1
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_t4t.c:323:12:rfalT4TPollerComposeWriteData	4
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/rfal/Src/rfal_t4t.c:356:12:rfalT4TPollerComposeWriteDataODO	6

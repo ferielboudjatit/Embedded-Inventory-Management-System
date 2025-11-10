@@ -1,0 +1,4 @@
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/logger.c:91:6:logUsartInit	16	static
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/logger.c:119:9:logUsartTx	16	static
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/logger.c:143:5:logUsart	272	static
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/logger.c:175:7:hex2Str	40	static

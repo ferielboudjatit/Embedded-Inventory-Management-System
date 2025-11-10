@@ -1,0 +1,7 @@
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:170:17:ndefWifiPayloadGetLength	3
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:193:23:ndefWifiToPayloadItem	15
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:323:12:ndefWifiInit	3
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:348:12:ndefGetWifi	4
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:372:19:ndefPayloadToWifi	16
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:456:12:ndefRecordToWifi	6
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:482:12:ndefWifiToRecord	5

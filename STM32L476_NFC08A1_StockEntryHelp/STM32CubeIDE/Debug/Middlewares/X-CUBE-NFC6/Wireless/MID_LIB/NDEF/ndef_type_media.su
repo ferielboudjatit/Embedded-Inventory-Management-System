@@ -1,0 +1,4 @@
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_media.c:68:12:ndefMediaInit	32	static
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_media.c:93:12:ndefGetMedia	32	static
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_media.c:116:12:ndefRecordToMedia	32	static
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_media.c:146:12:ndefMediaToRecord	24	static

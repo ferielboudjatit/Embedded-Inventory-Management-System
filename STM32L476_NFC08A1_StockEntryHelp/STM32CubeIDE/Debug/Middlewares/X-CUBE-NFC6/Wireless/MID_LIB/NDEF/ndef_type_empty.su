@@ -1,0 +1,5 @@
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_empty.c:68:17:ndefEmptyTypePayloadGetLength	16	static
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_empty.c:77:23:ndefEmptyTypePayloadItem	24	static
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_empty.c:97:12:ndefEmptyTypeInit	16	static
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_empty.c:114:12:ndefRecordToEmptyType	24	static
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_empty.c:139:12:ndefEmptyTypeToRecord	16	static

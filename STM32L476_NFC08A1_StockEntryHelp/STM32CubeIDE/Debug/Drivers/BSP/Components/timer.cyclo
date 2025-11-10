@@ -1,0 +1,5 @@
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Drivers/BSP/Components/ST25R3916/timer.c:50:10:timerCalculateTimer	1
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Drivers/BSP/Components/ST25R3916/timer.c:57:6:timerIsExpired	2
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Drivers/BSP/Components/ST25R3916/timer.c:81:6:timerDelay	2
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Drivers/BSP/Components/ST25R3916/timer.c:92:6:timerStopwatchStart	1
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Drivers/BSP/Components/ST25R3916/timer.c:99:10:timerStopwatchMeasure	1

@@ -1,0 +1,5 @@
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Drivers/BSP/NFC08A1/nfc08a1.c:63:6:NFC08A1_LED_Init	2
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Drivers/BSP/NFC08A1/nfc08a1.c:91:6:NFC08A1_LED_DeInit	1
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Drivers/BSP/NFC08A1/nfc08a1.c:107:6:NFC08A1_LED_ON	1
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Drivers/BSP/NFC08A1/nfc08a1.c:117:6:NFC08A1_LED_OFF	1
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Drivers/BSP/NFC08A1/nfc08a1.c:127:6:NFC08A1_LED_Toggle	1

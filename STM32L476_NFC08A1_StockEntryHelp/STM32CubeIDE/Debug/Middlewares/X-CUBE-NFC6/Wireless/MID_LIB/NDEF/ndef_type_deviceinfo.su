@@ -1,0 +1,7 @@
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_deviceinfo.c:81:17:ndefRtdDeviceInfoPayloadGetLength	32	static
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_deviceinfo.c:107:23:ndefRtdDeviceInfoToPayloadItem	32	static
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_deviceinfo.c:163:12:ndefRtdDeviceInfoInit	40	static
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_deviceinfo.c:242:12:ndefGetRtdDeviceInfo	24	static
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_deviceinfo.c:266:19:ndefPayloadToRtdDeviceInfo	40	static
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_deviceinfo.c:358:12:ndefRecordToRtdDeviceInfo	24	static
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/message/ndef_type_deviceinfo.c:384:12:ndefRtdDeviceInfoToRecord	16	static

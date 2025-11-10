@@ -1,0 +1,9 @@
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/demo_ce.c:173:13:cmdCompare	3
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/demo_ce.c:195:17:demoCeT4TSelect	9
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/demo_ce.c:252:17:demoCeT4TRead	7
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/demo_ce.c:307:17:demoCeT4TUpdate	3
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/demo_ce.c:344:17:demoCeT3TCheck	14
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/demo_ce.c:461:17:demoCeT3TUpdate	11
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/demo_ce.c:566:6:demoCeInit	3
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/demo_ce.c:601:10:demoCeT4T	10
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/demo_ce.c:650:10:demoCeT3T	7

@@ -1,0 +1,7 @@
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/ndef_demo.c:114:13:checkUserButton	8	static
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/ndef_demo.c:162:13:ndefShowDemoUsage	16	static
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/ndef_demo.c:193:6:demoIni	16	static
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/ndef_demo.c:269:6:demoCycle	72	static
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/ndef_demo.c:399:13:demoNfc	72	static
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/ndef_demo.c:531:13:ledsOn	8	static
+C:/Users/boudjatf/OneDrive - STMicroelectronics/Documents/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Src/ndef_demo.c:541:13:ledsOff	8	static

@@ -1,0 +1,2 @@
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_poller_message.c:79:19:ndefPollerWriteRecord	72	static
+D:/ST_Internship/STM32 Labs/Stock Management Final Projects/STM32L476_NFC08A1_StockEntryHelp/Middlewares/ST/ndef/Src/poller/ndef_poller_message.c:153:12:ndefPollerWriteMessage	40	static
