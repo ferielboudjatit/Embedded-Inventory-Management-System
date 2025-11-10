@@ -4,10 +4,10 @@ The project demonstrates an integrated hardware–software architecture built en
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
-📁 Embedded_Inventory_System/
+Embedded_Inventory_System/
 ├── Database_update/
 │   ├── README.md                # Details about the database update script
 │   └── update_script.py         # Python script for database synchronization
