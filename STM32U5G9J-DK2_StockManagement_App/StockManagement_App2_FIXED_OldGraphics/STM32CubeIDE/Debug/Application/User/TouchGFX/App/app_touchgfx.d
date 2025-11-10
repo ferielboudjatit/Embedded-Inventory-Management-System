@@ -1,0 +1,4 @@
+Application/User/TouchGFX/App/app_touchgfx.o: \
+ C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/TouchGFX/App/app_touchgfx.c \
+ C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/TouchGFX/App/app_touchgfx.h
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/TouchGFX/App/app_touchgfx.h:

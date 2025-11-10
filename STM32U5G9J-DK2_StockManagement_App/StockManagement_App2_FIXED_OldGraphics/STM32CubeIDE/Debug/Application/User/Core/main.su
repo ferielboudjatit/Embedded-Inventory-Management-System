@@ -1,0 +1,6 @@
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Core/Src/main.c:83:5:main	8	static
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Core/Src/main.c:165:6:SystemClock_Config	128	static
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Core/Src/main.c:217:13:SystemPower_Config	8	static
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Core/Src/main.c:238:6:HAL_GPIO_EXTI_Rising_Callback	16	static
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Core/Src/main.c:257:6:HAL_TIM_PeriodElapsedCallback	16	static
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Core/Src/main.c:275:6:Error_Handler	4	static,ignoring_inline_asm

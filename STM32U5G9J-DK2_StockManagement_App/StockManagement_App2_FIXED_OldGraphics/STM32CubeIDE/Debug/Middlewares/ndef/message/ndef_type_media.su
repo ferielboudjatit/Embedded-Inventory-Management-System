@@ -1,0 +1,4 @@
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Middlewares_patch/ndef/Src/message/ndef_type_media.c:68:12:ndefMediaInit	32	static
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Middlewares_patch/ndef/Src/message/ndef_type_media.c:93:12:ndefGetMedia	32	static
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Middlewares_patch/ndef/Src/message/ndef_type_media.c:116:12:ndefRecordToMedia	32	static
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Middlewares_patch/ndef/Src/message/ndef_type_media.c:146:12:ndefMediaToRecord	24	static

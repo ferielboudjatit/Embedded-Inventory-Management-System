@@ -1,0 +1,10 @@
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:167:6:S2LPGpioInit	1
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:194:6:S2LPGpioSetLevel	2
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:225:13:S2LPGpioGetLevel	2
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:252:6:S2LPGpioIrqDeInit	2
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:277:6:S2LPGpioIrqInit	2
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:300:6:S2LPGpioIrqConfig	4
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:349:6:S2LPGpioIrqGetMask	2
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:380:6:S2LPGpioIrqGetStatus	2
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:402:6:S2LPGpioIrqClearStatus	1
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:417:7:S2LPGpioIrqCheckFlag	3

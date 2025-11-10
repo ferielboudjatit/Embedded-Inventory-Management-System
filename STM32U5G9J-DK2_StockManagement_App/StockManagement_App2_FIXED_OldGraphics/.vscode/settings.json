@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "main.h": "c",
+        "custom_bus.h": "c",
+        "custom_errno.h": "c",
+        "rfal_platform.h": "c",
+        "i2c.h": "c",
+        "app_x-cube-nfcx.h": "c",
+        "nfc_messages.h": "c",
+        "s2868a1.h": "c",
+        "app_x-cube-subg2.h": "c",
+        "s2lp_commands.h": "c",
+        "s2lp.h": "c"
+    }
+}

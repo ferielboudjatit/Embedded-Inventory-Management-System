@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.25.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="transmission_error_ID" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Erreur de transmission</Translation>
+      </Text>
+      <Text Id="__SingleUse_EJ8K" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Fermer</Translation>
+      </Text>
+      <Text Id="see_someone_ID" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Veuillez voir Personne X. </Translation>
+      </Text>
+      <Text Id="scan_board_slowly_ID" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Trop rapide, réessayez.</Translation>
+      </Text>
+      <Text Id="badge_scanned_ID" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Badge scanned successfully</Translation>
+      </Text>
+      <Text Id="board_scanned_ID" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Board scanned successully </Translation>
+      </Text>
+      <Text Id="Scan_badge_ID" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Scannez votre badge.</Translation>
+      </Text>
+      <Text Id="__SingleUse_9NW4" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Commencer</Translation>
+      </Text>
+      <Text Id="Remove_badge_ID" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Remove your badge.</Translation>
+      </Text>
+      <Text Id="Scan_board_ID" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Scannez le produit.</Translation>
+      </Text>
+      <Text Id="Board_gotout_ID" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Le produit est sorti du stock.</Translation>
+      </Text>
+      <Text Id="Scan_board_b4_ID" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Veuillez scanner le&#10;produit d'abord.</Translation>
+      </Text>
+      <Text Id="Remove_board_ID" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Remove board.</Translation>
+      </Text>
+      <Text Id="Board_entered_ID" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Le produit est &#10;désormais en stock.</Translation>
+      </Text>
+      <Text Id="Scan_badge_b4_ID" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Veuillez scanner votre&#10; badge avant.</Translation>
+      </Text>
+      <Text Id="Welcome_ID" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Bonjour !&#10;Vous empruntez &#10;ou rendez une board?</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_00" Font="verdana.ttf" Size="30" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>

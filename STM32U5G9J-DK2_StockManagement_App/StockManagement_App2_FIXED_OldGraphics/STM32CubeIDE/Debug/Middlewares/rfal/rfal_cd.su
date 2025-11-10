@@ -1,0 +1,3 @@
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Middlewares_patch/rfal/Src/rfal_cd.c:139:12:rfalCdDetectCard	24	static
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Middlewares_patch/rfal/Src/rfal_cd.c:151:12:rfalCdStartDetectCard	16	static
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Middlewares_patch/rfal/Src/rfal_cd.c:166:12:rfalCdGetDetectCardStatus	40	static

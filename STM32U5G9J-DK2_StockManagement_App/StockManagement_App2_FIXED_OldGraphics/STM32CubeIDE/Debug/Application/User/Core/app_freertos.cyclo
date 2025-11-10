@@ -1,0 +1,6 @@
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Core/Src/app_freertos.c:89:6:vApplicationMallocFailedHook	1
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Core/Src/app_freertos.c:105:6:vApplicationIdleHook	1
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Core/Src/app_freertos.c:122:6:vApplicationStackOverflowHook	1
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Core/Src/app_freertos.c:136:6:MX_FREERTOS_Init	1
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Core/Src/app_freertos.c:181:6:StartDefaultTask	1
+C:/TouchGFXProjects/StockManagement_App2_FIXED_OldGraphics/StockManagement_App2_FIXED_OldGraphics/Core/Src/app_freertos.c:194:6:NFC_SUBG_TaskWrapper	1
