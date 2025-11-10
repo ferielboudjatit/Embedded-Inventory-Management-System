@@ -22,7 +22,7 @@ Embedded_Inventory_System/
 │   ├── README.md                # Details about initial NFC tag setup
 │   └── ...                      # STM32 project for reading and logging NFC IDs
 │
-└── include/
+└── Include/
     └── simple_system_architecture.drawio.png  # System architecture diagram
 ```
 
@@ -51,7 +51,7 @@ The architecture consists of multiple STM32-based modules responsible for:
 * **Real-time graphical feedback** on a TouchGFX interface
 
 <div align="center">
-  <img src="include/simple_system_architecture.drawio.png" width="700"/>
+  <img src="Include/simple_system_architecture.drawio.png" width="700"/>
   <br>
   <em>Figure 1. Simplified software architecture</em>
 </div>
