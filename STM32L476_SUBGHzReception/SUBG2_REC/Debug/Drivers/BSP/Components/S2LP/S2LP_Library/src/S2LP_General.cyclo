@@ -1,0 +1,5 @@
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_General.c:103:6:S2LPGeneralSetExtRef	2
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_General.c:126:12:S2LPGeneralGetExtRef	1
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_General.c:139:9:S2LPGeneralGetDevicePN	1
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_General.c:151:9:S2LPGeneralGetVersion	1
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_General.c:165:6:S2LPRadioSetExternalSmpsMode	2

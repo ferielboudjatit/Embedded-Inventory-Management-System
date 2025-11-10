@@ -1,0 +1,4 @@
+../X-CUBE-SUBG2/Target/logger.c:92:6:logUsartInit	1
+../X-CUBE-SUBG2/Target/logger.c:120:9:logUsartTx	1
+../X-CUBE-SUBG2/Target/logger.c:134:5:logUsart	1
+../X-CUBE-SUBG2/Target/logger.c:159:7:hex2Str	4

@@ -1,0 +1,11 @@
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Fifo.c:101:9:S2LPFifoReadNumberBytesRxFifo	1
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Fifo.c:115:9:S2LPFifoReadNumberBytesTxFifo	1
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Fifo.c:132:6:S2LPFifoSetAlmostFullThresholdRx	1
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Fifo.c:155:9:S2LPFifoGetAlmostFullThresholdRx	1
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Fifo.c:172:6:S2LPFifoSetAlmostEmptyThresholdRx	1
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Fifo.c:193:9:S2LPFifoGetAlmostEmptyThresholdRx	1
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Fifo.c:212:6:S2LPFifoSetAlmostFullThresholdTx	1
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Fifo.c:235:9:S2LPFifoGetAlmostFullThresholdTx	1
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Fifo.c:252:6:S2LPFifoSetAlmostEmptyThresholdTx	1
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Fifo.c:275:9:S2LPFifoGetAlmostEmptyThresholdTx	1
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Fifo.c:291:6:S2LPFifoMuxRxFifoIrqEnable	2

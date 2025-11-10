@@ -1,0 +1,9 @@
+../Drivers/BSP/Components/S2LP/s2lp.c:39:9:S2LP_RegisterBusIO	2
+../Drivers/BSP/Components/S2LP/s2lp.c:54:9:S2LP_Init	2
+../Drivers/BSP/Components/S2LP/s2lp.c:71:10:S2LP_WriteRegister	1
+../Drivers/BSP/Components/S2LP/s2lp.c:91:10:S2LP_ReadRegister	1
+../Drivers/BSP/Components/S2LP/s2lp.c:109:10:S2LP_SendCommand	1
+../Drivers/BSP/Components/S2LP/s2lp.c:128:13:S2LP_WriteFIFO	1
+../Drivers/BSP/Components/S2LP/s2lp.c:148:13:S2LP_ReadFIFO	1
+../Drivers/BSP/Components/S2LP/s2lp.c:166:9:S2LP_RcoCalibration	5
+../Drivers/BSP/Components/S2LP/s2lp.c:227:6:S2LP_TCXOInit	1

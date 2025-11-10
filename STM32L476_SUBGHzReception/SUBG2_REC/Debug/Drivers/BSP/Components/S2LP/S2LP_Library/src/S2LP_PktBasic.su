@@ -1,0 +1,10 @@
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_PktBasic.c:82:6:S2LPPktBasicInit	24	static
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_PktBasic.c:182:6:S2LPPktBasicGetInfo	24	static
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_PktBasic.c:229:6:S2LPPktBasicAddressesInit	24	static
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_PktBasic.c:280:6:S2LPPktBasicGetAddressesInfo	24	static
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_PktBasic.c:300:6:S2LPPktBasicSetFormat	16	static
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_PktBasic.c:327:6:S2LPPktBasicAddressField	24	static
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_PktBasic.c:349:18:S2LPPktBasicGetAddressField	16	static
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_PktBasic.c:373:6:S2LPPktBasicSetPayloadLength	24	static
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_PktBasic.c:395:10:S2LPPktBasicGetPayloadLength	16	static
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_PktBasic.c:414:10:S2LPPktBasicGetReceivedPktLength	16	static

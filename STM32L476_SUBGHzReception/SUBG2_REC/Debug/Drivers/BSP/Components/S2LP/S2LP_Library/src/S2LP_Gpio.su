@@ -1,0 +1,10 @@
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:167:6:S2LPGpioInit	24	static
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:194:6:S2LPGpioSetLevel	24	static
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:225:13:S2LPGpioGetLevel	24	static
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:252:6:S2LPGpioIrqDeInit	24	static
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:277:6:S2LPGpioIrqInit	32	static
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:300:6:S2LPGpioIrqConfig	32	static
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:349:6:S2LPGpioIrqGetMask	32	static
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:380:6:S2LPGpioIrqGetStatus	32	static
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:402:6:S2LPGpioIrqClearStatus	16	static
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Gpio.c:417:7:S2LPGpioIrqCheckFlag	32	static

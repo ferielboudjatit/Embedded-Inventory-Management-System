@@ -1,0 +1,6 @@
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Timer_ex.c:44:6:S2LPTimerSetRxTimerMs	1
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Timer_ex.c:49:6:S2LPTimerGetRxTimer	1
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Timer_ex.c:58:6:S2LPTimerSetWakeUpTimerMs	1
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Timer_ex.c:63:6:S2LPTimerSetWakeUpTimerReloadMs	1
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Timer_ex.c:68:6:S2LPTimerGetWakeUpTimer	1
+../Drivers/BSP/Components/S2LP/S2LP_Library/src/S2LP_Timer_ex.c:77:6:S2LPTimerGetWakeUpTimerReload	1
