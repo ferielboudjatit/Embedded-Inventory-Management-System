@@ -1,5 +1,7 @@
 # User Guide: Database Update Setup
 
+The database is just shown as an example, there's no real data in it.
+
 This guide explains how to set up the database update mechanism on your PC. It is divided into three main sections: folder structure, Python script, and Excel file configuration.
 
 ## Contents of this folder  
