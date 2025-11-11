@@ -1,5 +1,3 @@
-(Use Ctrl+Shift+V to switch to markdown preview)
-
 # User Guide: Database Update Setup
 
 This guide explains how to set up the database update mechanism on your PC. It is divided into three main sections: folder structure, Python script, and Excel file configuration.
