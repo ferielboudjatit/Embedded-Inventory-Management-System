@@ -11,6 +11,7 @@ Embedded_Inventory_System/
 ├── Database_update/
 │   ├── README.md                # Details about the database update script
 │   └── update_script.py         # Python script for database synchronization
+│   └── nucleoNFC.py             # Python script for initial NFC tag setup
 │
 ├── STM32U5G9J-DK2_StockManagement_App/
 │   └── ...                      # STM32 project for NFC + Sub-GHz transmission + TouchGFX GUI
@@ -19,7 +20,7 @@ Embedded_Inventory_System/
 │   └── ...                      # STM32 project for Sub-GHz message reception and logging
 │
 ├── STM32L476_NFC08A1_StockEntryHelp/
-│   ├── README.md                # Details about initial NFC tag setup
+│   ├── README.md                # Details about 
 │   └── ...                      # STM32 project for reading and logging NFC IDs
 │
 └── Include/
