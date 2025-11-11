@@ -20,7 +20,7 @@ What you need to do :
   2- Modify python script in order to put the right column names and lines to match your modifications (if you did any).   
   3- Save these sheets as CSV. They will automatically be imported to the .xlsm file, if you created a new sheet, you need to import it as indicated in the Excel file section.  
    
-**- Sharepoint folder (currently located in [ internship_folder](https://stmicroelectronics.sharepoint.com/sites/EMEAMCD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FEMEAMCD%2FShared%20Documents%2F7%2E%20Hotline%20and%20support%2FTOMAS%2FTOMAS%20Paris%20Shared%2FInternship%5Ffolder&viewid=5098bdc4%2Dc00e%2D465c%2D9b64%2Dd00de0f5947d)):**   
+**- Sharepoint remote folder:**   
   1- Open it in the sharepoint website.  
   2- Click **"Add shortcut to OneDrive"**.  
   3- Open shortcut in your local file explorer.  
@@ -137,7 +137,7 @@ After that, run VBA (select RefreshQuery) a first time, save and close.
   - Click on Properties
   - Copy the following :
   ```
-  "EXCEL.EXE" https://stmicroelectronics.sharepoint.com/:x:/r/sites/EMEAMCD/_layouts/15/Doc.aspx?sourcedoc=%7B91A68B3E-9DAE-4D9F-99CA-B833728ADCE6%7D&file=STM32%20Boards%20List%20Automated%20-%20Paris.xlsm&action=default&mobileredirect=true
+  "EXCEL.EXE" link_to_your_remote_database
   ```
   under "Target", and make sure you have the path `C:\Program Files\Microsoft Office\root\Office16` under Start in.
 
